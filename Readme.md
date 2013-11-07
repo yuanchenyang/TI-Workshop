@@ -10,9 +10,15 @@ download binaries for Mac, Linux and Windows from this website.
 
 OS X:
 
-1. Download `gcc4ti-install-osx5.sh`
+1. Download `gcc4ti-install-osx5.sh`  [https://dl.dropboxusercontent.com/u/1932295/gcc4ti-install-osx5.sh]
 
 2. Go to terminal, `cd` to the Downloads directory and run
+
+Windows:
+
+1. Download `tigcc` here: [http://www.ticalc.org/pub/win/asm/tigcc.zip]
+
+2. Unzip and install
 
 ```
 ./gcc4ti-install-osx5.sh
